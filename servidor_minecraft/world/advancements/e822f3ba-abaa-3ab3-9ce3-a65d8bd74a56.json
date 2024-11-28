@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-11-28 18:21:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-11-28 18:20:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-11-28 18:21:11 +0000"
     },
     "done": true
   },
@@ -22,6 +10,18 @@
       "minecraft:savanna_plateau": "2024-11-28 18:20:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-28 18:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 18:21:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
