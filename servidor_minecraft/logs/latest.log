@@ -101,3 +101,16 @@
 [28Nov2024 18:12:21.384] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [28Nov2024 18:20:17.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LazarilloDt[/127.140.134.179:37279] logged in with entity id 274 at (-9.5, 91.0, 6.5)
 [28Nov2024 18:20:17.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LazarilloDt joined the game
+[28Nov2024 18:21:51.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LazarilloDt lost connection: Disconnected
+[28Nov2024 18:21:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LazarilloDt left the game
+[28Nov2024 18:22:32.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Nov2024 18:22:32.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Nov2024 18:22:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Nov2024 18:22:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Nov2024 18:22:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Nov2024 18:22:34.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Nov2024 18:22:34.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Nov2024 18:22:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Nov2024 18:22:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Nov2024 18:22:34.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Nov2024 18:22:34.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
